@@ -1,0 +1,93 @@
+.login-page-container {
+    display: flex;
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    overflow: hidden;
+}
+
+    .login-page-container::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: 0;
+        height: 100%;
+        width: 50%;
+        background: url("/backround.jpg") center center / cover no-repeat;
+        z-index: 0;
+    }
+
+/* Login Form */
+.form-container {
+    width: 50%;
+    padding: 3rem;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: #ffffff;
+}
+
+    .form-container h2 {
+        font-size: 2rem;
+        font-weight: bold;
+        margin-bottom: 0.5rem;
+        color: #007bff;
+    }
+
+    .form-container p {
+        font-size: 0.9rem;
+        margin-bottom: 1rem;
+        color: #555;
+    }
+
+    .form-container label {
+        font-size: 0.9rem;
+        font-weight: 500;
+        margin-bottom: 0.5rem;
+        color: #666;
+    }
+
+    .form-container input {
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 10px;
+        width: 100%;
+        margin-bottom: 1rem;
+        font-size: 1rem;
+    }
+
+    .form-container .btn-primary {
+        background-color: #007bff;
+        border: none;
+        color: #fff;
+        padding: 10px 15px;
+        font-size: 1rem;
+        border-radius: 5px;
+        width: 100%;
+        margin-top: 1rem;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .form-container .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+    .form-container .secondary-links {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        font-size: 0.85rem;
+        margin-top: 1rem;
+    }
+
+        .form-container .secondary-links a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+            .form-container .secondary-links a:hover {
+                text-decoration: underline;
+            }

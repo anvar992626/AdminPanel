@@ -1,0 +1,55 @@
+/* General Container */
+.container {
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+}
+
+/* Toolbar Buttons */
+.btn-outline-primary, .btn-outline-secondary {
+    border: 1px solid #007bff;
+    color: #007bff;
+    background-color: #fff;
+}
+
+    .btn-outline-primary:hover, .btn-outline-secondary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+
+.btn-outline-success {
+    border: 1px solid #28a745;
+    color: #28a745;
+    background-color: #fff;
+}
+
+    .btn-outline-success:hover {
+        background-color: #28a745;
+        color: #fff;
+    }
+
+.btn-outline-danger {
+    border: 1px solid #dc3545;
+    color: #dc3545;
+    background-color: #fff;
+}
+
+    .btn-outline-danger:hover {
+        background-color: #dc3545;
+        color: #fff;
+    }
+
+/* Table Styling */
+.table-hover tbody tr:hover {
+    background-color: #f8f9fa;
+}
+
+.table-light {
+    background-color: #f8f9fa;
+}
+
+th, td {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 0.95rem;
+    font-family: 'Poppins', sans-serif;
+}
