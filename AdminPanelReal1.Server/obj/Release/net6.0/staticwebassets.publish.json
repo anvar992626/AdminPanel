@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "Hash": "kzsRJV4lAuHRvBreNnbPZ7krQWvU+Bk7EGYL4VPvl04=",
+  "Source": "AdminPanelReal1.Server",
+  "BasePath": "_content/AdminPanelReal1.Server",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\adminpanelreal1.client.esproj",
+      "Version": 2,
+      "Source": "adminpanelreal1.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\assets\\index-BUB-rEUj.css",
+      "SourceId": "adminpanelreal1.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "assets/index-BUB-rEUj.css",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e81926hado",
+      "Integrity": "gudqGhE/VKL7lhYLy/mK6mF14pH1hL8FZXhbBmIbeQk=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\assets\\index-BUB-rEUj.css"
+    },
+    {
+      "Identity": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\assets\\index-D2dVfkf0.js",
+      "SourceId": "adminpanelreal1.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "assets/index-D2dVfkf0.js",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j5squ0fm1j",
+      "Integrity": "B19MqZzScc1WVciarguctLzqO/3UFhBjBLmtXOGS6XQ=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\assets\\index-D2dVfkf0.js"
+    },
+    {
+      "Identity": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\backround.jpg",
+      "SourceId": "adminpanelreal1.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "backround.jpg",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p0lz0wc23p",
+      "Integrity": "KRVWF5cARm4qFJl9PT9cDX2UqxueRsg6UftyYDgs6m8=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\backround.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\index.html",
+      "SourceId": "adminpanelreal1.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "index.html",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pgepi4ec5f",
+      "Integrity": "hyhnii+LR/zOa2NZZ5CvRludGDl29dtz1t87A9FSwfE=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\vite.svg",
+      "SourceId": "adminpanelreal1.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "vite.svg",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69kjnsiwqx",
+      "Integrity": "SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\vite.svg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/index-BUB-rEUj.css",
+      "AssetFile": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\assets\\index-BUB-rEUj.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gudqGhE/VKL7lhYLy/mK6mF14pH1hL8FZXhbBmIbeQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 12:03:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gudqGhE/VKL7lhYLy/mK6mF14pH1hL8FZXhbBmIbeQk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-D2dVfkf0.js",
+      "AssetFile": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\assets\\index-D2dVfkf0.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B19MqZzScc1WVciarguctLzqO/3UFhBjBLmtXOGS6XQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 12:03:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B19MqZzScc1WVciarguctLzqO/3UFhBjBLmtXOGS6XQ="
+        }
+      ]
+    },
+    {
+      "Route": "backround.jpg",
+      "AssetFile": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\backround.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KRVWF5cARm4qFJl9PT9cDX2UqxueRsg6UftyYDgs6m8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 16:08:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRVWF5cARm4qFJl9PT9cDX2UqxueRsg6UftyYDgs6m8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hyhnii+LR/zOa2NZZ5CvRludGDl29dtz1t87A9FSwfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 12:03:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hyhnii+LR/zOa2NZZ5CvRludGDl29dtz1t87A9FSwfE="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\adminpanelreal1.client\\dist\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 09:47:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    }
+  ]
+}

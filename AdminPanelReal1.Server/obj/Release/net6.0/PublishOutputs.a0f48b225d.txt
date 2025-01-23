@@ -1,0 +1,17 @@
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\AdminPanelReal1.Server.exe
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\appsettings.Development.json
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\appsettings.json
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\AdminPanelReal1.Server.dll
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\AdminPanelReal1.Server.runtimeconfig.json
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\AdminPanelReal1.Server.pdb
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\Microsoft.OpenApi.dll
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\Npgsql.dll
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anvar\source\repos\AdminPanelReal1\publish\AdminPanelReal1.Server.deps.json

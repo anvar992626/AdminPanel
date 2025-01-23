@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:57497",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\anvar\\source\\repos\\AdminPanelReal1\\AdminPanelReal1.Server\\..\\adminpanelreal1.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

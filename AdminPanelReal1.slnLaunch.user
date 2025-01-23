@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AdminPanelReal1.Server\\AdminPanelReal1.Server.csproj",
+        "Action": "Start",
+        "DebugTarget": "AdminPanelReal1.Server"
+      },
+      {
+        "Path": "adminpanelreal1.client\\adminpanelreal1.client.esproj",
+        "Action": "Start",
+        "DebugTarget": "localhost (Edge)"
+      }
+    ]
+  }
+]
